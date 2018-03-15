@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -192.348 -189.615 -167.813
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.785156 0.785156 33
+DimSize = 512 512 3
+ElementType = MET_USHORT
+ElementDataFile = slice55_10090_mask.raw
